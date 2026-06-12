@@ -1,0 +1,10 @@
+{
+  "publisher": "github.DevinSanders",
+  "id": "theme.industrial-steampunk",
+  "name": "Industrial & Steampunk",
+  "version": "1.0.0",
+  "author": "Devin Sanders",
+  "description": "Two Industrial & Steampunk palettes: The Inventor's Desk (brass & blueprint) and Smog & Aether (soot & arcane).",
+  "entryDll": "IndustrialSteampunkThemePlugin.dll",
+  "isTheme": true
+}

@@ -1,0 +1,40 @@
+<!-- The Inventor's Desk — brass & blueprint; drafting schematics by lamplight.
+     A flat theme: one set of colours, no Dark/Light variants. The host
+     applies these regardless of the active Avalonia variant. -->
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Surfaces — kraft paper -->
+    <SolidColorBrush x:Key="SidebarBackground"      Color="#D4C5A0" />
+    <SolidColorBrush x:Key="ContentBackground"      Color="#E8DCC4" />
+    <SolidColorBrush x:Key="PanelBackground1"       Color="#DCD0B0" />
+    <SolidColorBrush x:Key="PanelBackground2"       Color="#E8DCC4" />
+    <SolidColorBrush x:Key="PanelBackground3"       Color="#C8B98E" />
+    <SolidColorBrush x:Key="SubtleBorder"           Color="#A89570" />
+
+    <!-- Accents — blueprint navy + polished copper -->
+    <SolidColorBrush x:Key="PrimaryAccent"          Color="#1F3A5C" />
+    <SolidColorBrush x:Key="PrimaryAccentHover"     Color="#2D4E75" />
+    <SolidColorBrush x:Key="OnPrimaryAccent"        Color="#E8DCC4" />
+    <SolidColorBrush x:Key="SecondaryAccent"        Color="#B87333" />
+
+    <!-- Text — deep ink brown -->
+    <SolidColorBrush x:Key="TextPrimary"            Color="#3D2E14" />
+    <SolidColorBrush x:Key="TextSecondary"          Color="#6E5A35" />
+
+    <!-- Status pairs — workshop palette -->
+    <SolidColorBrush x:Key="SuccessBackground"      Color="#D8DCB8" />
+    <SolidColorBrush x:Key="SuccessForeground"      Color="#5A6B1A" />
+    <SolidColorBrush x:Key="DangerBackground"       Color="#D9C0AC" />
+    <SolidColorBrush x:Key="DangerForeground"       Color="#8B3A1A" />
+    <SolidColorBrush x:Key="InfoBackground"         Color="#C0D0DC" />
+    <SolidColorBrush x:Key="InfoForeground"         Color="#1F3A5C" />
+    <SolidColorBrush x:Key="WarningBackground"      Color="#DCC8A0" />
+    <SolidColorBrush x:Key="WarningForeground"      Color="#8B5A1A" />
+
+    <!-- Composition keys -->
+    <SolidColorBrush x:Key="DropZoneHighlight"      Color="#B41F3A5C" />
+    <SolidColorBrush x:Key="WaveformBrush"          Color="#1F3A5C" />
+    <SolidColorBrush x:Key="LoopInheritForeground"  Color="#6E5A35" />
+    <SolidColorBrush x:Key="LoopForceOnForeground"  Color="#5A6B1A" />
+    <SolidColorBrush x:Key="LoopForceOffForeground" Color="#8B3A1A" />
+</ResourceDictionary>

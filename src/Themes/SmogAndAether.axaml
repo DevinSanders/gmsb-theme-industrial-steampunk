@@ -1,0 +1,40 @@
+<!-- Smog & Aether — soot & arcane; a smog-choked factory on magical power.
+     A flat theme: one set of colours, no Dark/Light variants. The host
+     applies these regardless of the active Avalonia variant. -->
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Surfaces — dark iron + soot -->
+    <SolidColorBrush x:Key="SidebarBackground"      Color="#1A1814" />
+    <SolidColorBrush x:Key="ContentBackground"      Color="#2A2620" />
+    <SolidColorBrush x:Key="PanelBackground1"       Color="#201C18" />
+    <SolidColorBrush x:Key="PanelBackground2"       Color="#2A2620" />
+    <SolidColorBrush x:Key="PanelBackground3"       Color="#3A352C" />
+    <SolidColorBrush x:Key="SubtleBorder"           Color="#4A4438" />
+
+    <!-- Accents — gauge amber + arcane violet -->
+    <SolidColorBrush x:Key="PrimaryAccent"          Color="#D9A038" />
+    <SolidColorBrush x:Key="PrimaryAccentHover"     Color="#E5B85C" />
+    <SolidColorBrush x:Key="OnPrimaryAccent"        Color="#2A2620" />
+    <SolidColorBrush x:Key="SecondaryAccent"        Color="#8A4DD5" />
+
+    <!-- Text — faded brass on iron -->
+    <SolidColorBrush x:Key="TextPrimary"            Color="#D5CFC0" />
+    <SolidColorBrush x:Key="TextSecondary"          Color="#8A8275" />
+
+    <!-- Status pairs — factory gauge palette -->
+    <SolidColorBrush x:Key="SuccessBackground"      Color="#2A3520" />
+    <SolidColorBrush x:Key="SuccessForeground"      Color="#8AAF38" />
+    <SolidColorBrush x:Key="DangerBackground"       Color="#3D1A14" />
+    <SolidColorBrush x:Key="DangerForeground"       Color="#D8553A" />
+    <SolidColorBrush x:Key="InfoBackground"         Color="#2A1F3D" />
+    <SolidColorBrush x:Key="InfoForeground"         Color="#8A4DD5" />
+    <SolidColorBrush x:Key="WarningBackground"      Color="#3D2F14" />
+    <SolidColorBrush x:Key="WarningForeground"      Color="#D9A038" />
+
+    <!-- Composition keys -->
+    <SolidColorBrush x:Key="DropZoneHighlight"      Color="#B4D9A038" />
+    <SolidColorBrush x:Key="WaveformBrush"          Color="#D9A038" />
+    <SolidColorBrush x:Key="LoopInheritForeground"  Color="#8A8275" />
+    <SolidColorBrush x:Key="LoopForceOnForeground"  Color="#8AAF38" />
+    <SolidColorBrush x:Key="LoopForceOffForeground" Color="#D8553A" />
+</ResourceDictionary>
