@@ -13,6 +13,12 @@ Two selectable palettes for steampunk RPG sessions. Each appears as its own entr
 
 **Smog & Aether** (soot & arcane) — Riveted dark iron and soot-gray surfaces. Glowing gauge-needle amber primary (warm magic light through the smog), volatile arcane violet for the dangerous-arcane status indicators. For factory-floor / action scenes.
 
+## Preview
+
+| The Inventor's Desk | Smog & Aether |
+|---|---|
+| ![The Inventor's Desk palette — kraft-paper surfaces with blueprint-navy primary and polished-copper secondary accents](screenshots/InventorsDesk.png) | ![Smog & Aether palette — dark iron and soot surfaces with gauge-amber primary and arcane-violet secondary accents](screenshots/SmogAndAether.png) |
+
 ## Install
 
 **Paid plugin.** The source is open here for reference, but the pre-built
